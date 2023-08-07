@@ -1,3 +1,1 @@
-import pandas
-
-print(pandas)
+print("Python Getting Started!")
